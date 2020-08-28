@@ -2,6 +2,9 @@
 
 integrantes :
 Carnero Eduardo
+
 Casaverde Diego 
+
 Laura Cesar
+
 Zamata Jordy
